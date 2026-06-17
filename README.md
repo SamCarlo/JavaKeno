@@ -12,6 +12,7 @@ The game works by selecting cards/icons to bet on, setting your bet amount, and 
 '''bash
 brew install openjdk
 '''
+
 **Windows:**
 1. Download the installer from [adoptium.net](https://adoptium.net)
 2. Run the `.msi` and follow the prompts
