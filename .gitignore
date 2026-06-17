@@ -1,0 +1,7 @@
+#Git Ignore File for Keno project from ICS211. 
+
+#Compiled class files
+*.class
+
+#Text output of game results
+*.txt
